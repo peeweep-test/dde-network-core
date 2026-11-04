@@ -1,3 +1,9 @@
+dde-network-core (6.1.114) unstable; urgency=medium
+
+  * fix(ci): pass App secrets to release workflow
+
+ -- Zhao Fangxun <zhaofangxun@uniontech.com>  Wed, 04 Nov 2026 13:38:35 +0800
+
 dde-network-core (2.0.108) unstable; urgency=medium
 
   * fix: serialize NetworkManagerQt access on one thread
